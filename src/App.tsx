@@ -81,7 +81,7 @@ function App() {
                     <IconButton
                         className="social-button"
                         component="a"
-                        href="https://www.github.com/BlueWitherer/"
+                        href="https://www.github.com/Cheeseworks/"
                         target="_blank"
                         rel="noopener noreferrer"
                         aria-label="GitHub"
